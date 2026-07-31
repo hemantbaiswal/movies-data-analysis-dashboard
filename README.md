@@ -20,7 +20,7 @@ year trends, with sidebar filters for genre, year range, and vote category.
    ```bash
    pip install -r requirements.txt
    ```
-5. Make sure `mymoviedb.csv` is in the same folder as `app.py`.
+5. Make sure `movies_dataset.csv` is in the same folder as `app.py`.
 6. Run the dashboard:
    ```bash
    streamlit run app.py
@@ -30,7 +30,7 @@ year trends, with sidebar filters for genre, year range, and vote category.
 ## Files
 
 - `app.py` — the dashboard app
-- `mymoviedb.csv` — your dataset
+- `movies_dataset.csv` — your dataset
 - `requirements.txt` — Python dependencies
 
 ## Customizing
