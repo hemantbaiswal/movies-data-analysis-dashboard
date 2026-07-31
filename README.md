@@ -1,6 +1,6 @@
 # Movies Data Analysis Dashboard
 
-An interactive Streamlit dashboard built from your `mymoviedb.csv` dataset —
+An interactive Streamlit dashboard built from your `movies_dataset.csv` dataset —
 covers genre distribution, popularity leaders, vote categories, and release
 year trends, with sidebar filters for genre, year range, and vote category.
 
